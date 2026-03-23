@@ -92,7 +92,7 @@ You should see 15 categories.
 
 ### 4. Train the model
 
-Train on a single category:
+Train on a single category(example 'leather'):
 
     python train_all.py --data_root ./data --category leather --epochs 50
 
